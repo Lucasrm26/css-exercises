@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.Odd-Numbered {
+    background-color: rgb(255, 90, 130);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
