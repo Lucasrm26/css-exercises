@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.left-button {
+    background-color: hsl(360, 0%, 0%);
+    color: hsl(360, 0%, 100%);
+}
