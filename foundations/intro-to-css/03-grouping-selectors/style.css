@@ -2,3 +2,7 @@
     background-color: hsl(360, 0%, 0%);
     color: hsl(360, 0%, 100%);
 }
+
+.right-button {
+    background-color: #ff0;
+}
