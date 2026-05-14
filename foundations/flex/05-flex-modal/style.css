@@ -77,3 +77,13 @@ button.cancel {
   display: flex;
   justify-content: space-between;
 }
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-bottom: 20px;
+}
