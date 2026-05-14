@@ -73,3 +73,7 @@ button.cancel {
   color: royalblue;
 }
 
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
