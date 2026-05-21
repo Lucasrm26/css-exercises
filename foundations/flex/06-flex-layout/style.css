@@ -42,3 +42,16 @@ input {
   justify-content: space-between;
   padding: 16px;
 }
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 16px;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0;
+}
+
+.footer {
+  background-color: #eee;
+}
