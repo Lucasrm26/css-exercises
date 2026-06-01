@@ -38,6 +38,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  height: 300px;
+  flex-basis: 350px;
+  flex-grow: 1;
 }
 
 .content {
@@ -60,4 +63,11 @@ a {
   color: white;
   text-decoration: none;
   font-weight: bold;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
+  gap: 48px;
 }
